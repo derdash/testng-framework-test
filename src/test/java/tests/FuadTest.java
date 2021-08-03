@@ -6,5 +6,6 @@ public class FuadTest {
 
         System.out.println("Hi World   " );
         System.out.println("Hi World 2 ");
+        System.out.println("Hi World 2 from desktop ");
     }
 }

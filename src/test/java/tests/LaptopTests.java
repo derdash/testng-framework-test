@@ -10,4 +10,10 @@ public class LaptopTests {
         System.out.println("Added laptop side");
 
     }
+    @Test
+    public void test2 (){
+        System.out.println("Added laptop side");
+        System.out.println("Added laptop side");
+
+    }
 }
